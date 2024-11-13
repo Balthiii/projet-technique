@@ -36,32 +36,39 @@ Attention : Très important d'avoir un chef de projet dans l'équipe.
 
 S'assurer que tout est prêt afin de commencer le projet.
 
-## Chapitre 1.3 - L'apport de la conduite de projets
-
-### 1.3.1 Maximiser la Valeur du projet
-
-### 1.3.2 Fiabiliser l'emploi des ressources et le planning
-
-### 1.3.3 Développer son équipe
-
 ## Chapitre 2 - Les aspects financiers et juridiques
 
 ### 2.1 Les aspects financiers 
 
+Réalisation (=75% première année)
+
+
 ### 2.2 Les budgets
+Combien ça coute ?
+Combien ça rapporte ?
 
-### 2.3 Le compte de résultats 
+Fournir les coûts des serveurs utilisés()
 
-### 2.4 Le business care
+## Chapitre 3 - La prise en compte du risque
 
-### 2.5 Le suivi financier des projets
+3.1 Les trois axes 
 
-### 2.6 La réglementation conernant la protection des données personnelles (data privacy)
+1. Axe du Temps (Cycle de vie)
+2. Axe d'Analyse (Niveau d'abstraction)
+3. Axe de Pilotage (cycle de décision)
 
-### 2.7 Le cadre contractuel du projet
+### Axe du temps ( Développement)
 
-### 2.8 Etude financière du site de vente en ligne 
+- Expressions des besoins
+- Phrases de développement
+- Livraison
+- Maintenance
 
+### Axe d'analyse (Abstraction )
+
+- Du concept au concret (étude du métier)
+- Niveau d'abstraction variable selon les phases
+- Compatible avec UML et Mérise
 
 
 
